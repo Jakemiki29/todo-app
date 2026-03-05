@@ -16,18 +16,7 @@ A simple Python command-line to-do list application.
 
 ## Run the App
 
-From the project folder:
-
-```powershell
-Set-Location "c:/Users/Jake/OneDrive/Coding-Temple/todo-app"
-C:/Users/Jake/OneDrive/Coding-Temple/todo-app/.venv/bin/python.exe todo_cli.py
-```
-
-If your environment differs, use your local Python executable:
-
-```powershell
-python todo_cli.py
-```
+Copy this file, put it in a folder, and use VS Code to run it by holding Ctrl+F5.
 
 ## How to Use
 
@@ -71,3 +60,4 @@ Your Tasks:
 - No tasks to delete
 - Delete with non-numeric input
 - Delete with out-of-range task number
+
